@@ -1,0 +1,54 @@
+_repo: Policeman-Bluejay_27951
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Barney, Maginel Wright
+    aliases:
+    - Enright, Maginel Wright
+    - Wright, Margaret Ellen
+    birthdate: 1877
+    deathdate: 1966
+    gutenberg_agent_id: '35429'
+    url: http://www.gutenberg.org/2009/agents/35429
+    wikipedia: http://en.wikipedia.org/wiki/Maginel_Wright_Enright
+covers:
+- cover_type: archival
+  image_path: 27951-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Akers, Floyd
+    - Fitzgerald, Hugh
+    - Metcalf, Suzanne
+    - Cooke, John Estes
+    - Bancroft, Laura
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Although it ranks among the most popular and critically acclaimed of
+  his fictional works, Frank L. Baum did not publish this delightful story for children
+  under his own name--it's one of only a handful of works that were attributed to
+  a pseudonym, Laura Bancroft. This tale follows the adventures of a kindhearted bird
+  whose job it is to maintain peace and order in the forest.
+gutenberg_issued: '2009-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27951'
+  lccn: 07024186
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+title: Policeman Bluejay
+url: http://www.gutenberg.org/ebooks/27951
